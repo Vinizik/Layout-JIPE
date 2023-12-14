@@ -24,8 +24,8 @@ header{
 }
 
 nav{
-    color: rgb(255, 217, 0);
-    border: 5px solid rgb(255, 217, 0);
+    color: rgb(255, 196, 0);
+    border: 5px solid rgb(255, 196, 0);
     width: 500px;
     padding-left: 10px;
     height: 50px;
@@ -71,10 +71,10 @@ article{
 }
 
 .main-section{
-    border: 5px solid rgb(255, 217, 0);
+    border: 5px solid rgb(255, 196, 0);
     padding: 20px;
     margin: 10px;
-    color: rgb(255, 217, 0);
+    color: rgb(255, 196, 0);
 }
 
 .main-section:first-child{
@@ -88,10 +88,10 @@ article{
 #aside-container{
     display: flex;
     flex-direction: column;
-    border: 5px solid rgb(255, 217, 0);
+    border: 5px solid rgb(255, 196, 0);
     padding: 20px;
     width: 25%;
-    color: rgb(255, 217, 0);
+    color: rgb(255, 196, 0);
     text-align: center;
 }
 
