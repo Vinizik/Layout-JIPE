@@ -8,6 +8,7 @@
 
 body{
     height: 94vh;
+    background-color: black;
 }
 
 header{
@@ -68,6 +69,7 @@ article{
     margin: 10px;
     color: rgb(0, 102, 255);
     height: 25%;
+    padding: 10px;
 }
 
 .main-section{
